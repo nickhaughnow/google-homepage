@@ -1,0 +1,106 @@
+body {
+	font-size: 13px;
+	font-family: arial, sans-serif;
+	color: #222;
+	margin: 0;
+}
+
+.topnavbar {
+	padding-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#google-boxes {
+	position: relative;
+	top: 10px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+li a {
+	display: inline;
+	text-align: center;
+	padding: 0px 10px;
+	text-decoration: none;
+}
+
+.topleft {
+	margin-left: 5px;
+}
+
+.topright {
+	position: absolute;
+	top: 10px;
+	right: 24px;
+}
+
+#sign-in {
+	background-color: #4285f4;
+	color: white;
+	font-weight: bold;
+	padding: 7px 12px;
+	border-radius: 2px;
+}
+
+.body {
+	display: block;
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+	min-width: 980px;
+	padding-top: 170px;
+	width: 1272px;
+	min-width: 300px;
+}
+
+.form {
+	padding: 10px 220px;
+	margin: 20px 0px;
+	box-shadow: 2px 2px 1px lightgrey;
+}
+
+.buttons input {
+	font-size: 13px;
+	background-color: #f2f2f2;
+	color: #757575;
+	font-weight: bold;
+	border-radius: 2px;
+	margin: 10px;
+	box-shadow: none;
+	border: 1px solid #f2f2f2;
+	padding: 9px 16px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	border-top: 1px solid #e4e4e4;
+	background-color: #f2f2f2;
+}
+
+.bottomleft {
+	margin-left: 15px;
+}
+
+.privacy {
+	float: right;
+	padding-right: 20px;
+}
+
+.footer a {
+	padding: 0px 10px;
+	text-decoration: none;
+}
