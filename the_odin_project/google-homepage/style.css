@@ -57,13 +57,13 @@ li a {
 	position: relative;
 	text-align: center;
 	margin: 0 auto;
-	min-width: 980px;
 	padding-top: 170px;
 	width: 1272px;
 	min-width: 300px;
 }
 
 .form {
+	text-align: left;
 	padding: 10px 220px;
 	margin: 20px 0px;
 	box-shadow: 2px 2px 1px lightgrey;
